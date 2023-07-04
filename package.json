@@ -1,11 +1,13 @@
 {
   "name": "mob101",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.1.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Vivian SARAZIN",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "vitest": "^0.32.4"
+  }
 }
