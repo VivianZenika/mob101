@@ -4,7 +4,7 @@ Présentation du mob (ensemble) programming
 
 ## Concept
 
-Le <b>[mob programming](https://en.wikipedia.org/wiki/Mob_programming)</b> est une approche collaborative de dévéloppement logiciel.
+Le <b>[mob programming](https://en.wikipedia.org/wiki/Mob_programming)</b> est une approche collaborative de développement logiciel.
 
 C'est une extension du pair programming, technique plébiscitée par l'Extreme Programming.
 
